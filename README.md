@@ -16,7 +16,7 @@ Currently, I’m exploring Vision-Language Models (VLMs) using CLIP, Transformer
 ## Technical Skills
 **Programming Languages:** Python, Java, C++, SQL  
 **Web Technologies:** HTML, CSS  
-**Tools & Platforms:** Git, Visual Studio Code  
+**Tools & Platforms:** MS PowerBI, Git, Visual Studio Code  
 
 ---
 
