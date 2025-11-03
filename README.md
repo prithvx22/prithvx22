@@ -5,7 +5,7 @@
 <p align="center">Nagarjuna College of Engineering and Technology, Bengaluru</p>
 
 <p align="center">
-  <b>Aspiring Software Developer</b> &nbsp;•&nbsp; Focused on <b>AI</b> and <b>Web Development</b>
+  <b>Aspiring Software Developer</b> • Focused on <b>AI</b> and <b>Web Development</b>
 </p>
 
 ---
@@ -31,6 +31,7 @@ Currently, I’m diving deeper into **Vision-Language Models (VLMs)** with **CLI
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -56,7 +57,7 @@ A research project using **CLIP**, **Transformers**, and **RNNs** for **aestheti
 - Fundamentals of Generative AI – *Simplilearn*  
 - Cyber Security Awareness – *LinkedIn Learning*  
 - Basics of Data Structures and Algorithms – *Infosys Springboard*  
-- Basics of Microsoft Power BI – *UniAthena*
+- **Basics of Microsoft Power BI – UniAthena**  
 
 ---
 
